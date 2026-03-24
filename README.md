@@ -1,0 +1,2 @@
+# KickSmartAI
+Capstone Project
